@@ -1,68 +1,37 @@
-<<<<<<< HEAD
-<a href="https://seuusuario.github.io/" target="_blank">Meu Portfólio</a>
-<p align="justify">Este site apresenta meus projetos, presença na web, história, experiência profissional e formas de contato.</p>
+# 🌐 Portfólio — SEU_NOME
 
+Acesse o site: https://SEU_USUARIO.github.io
 
-
-
-<a href="./LICENSE"><img alt="Licença" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square" /></a>
-
-<img width="100%" alt="Screenshot do Portfólio" src="[def2]">
-
-
-Seções 📚
-✔️ Introdução
-✔️ Sobre mim
-✔️ Habilidades
-✔️ Projetos
-✔️ Contato
-
-
-Licença 📄
-Este projeto é licenciado sob a Licença MIT.
-Créditos e direitos autorais originais permanecem com os respectivos autores do template.
-
-Ferramentas Utilizadas 🛠️
-<b>GitHub Pages</b> — Hospedagem do site.
-
-<b>Animate on Scroll</b> — Animações ao rolar a página.
-
-<b>Animista</b> — Efeitos de animação.
-
-
-=======
-# 🌐 Meu Portfólio
-
-Este site apresenta **meus projetos**, **presença na web**, **história**, **experiência profissional** e **formas de contato**.
+Este repositório contém o meu portfólio pessoal — projetos, habilidades, experiência e formas de contato.
 
 ---
 
-## 🖼 Screenshot
-<img width="100%" alt="Screenshot do Portfólio" src="[def2]">
+## 🖼 Preview
+![Screenshot do Portfólio](assets/screenshot-main.jpg)
 
 ---
 
 ## 📚 Seções
-✔️ Introdução  
-✔️ Sobre Mim  
-✔️ Habilidades  
-✔️ Projetos  
-✔️ Contato  
+- Introdução  
+- Sobre mim  
+- Habilidades  
+- Projetos  
+- Contato
 
 ---
 
-## 📜 Licença
-Este projeto está sob a [Licença MIT](./LICENSE).  
-Os créditos e direitos autorais originais permanecem com os criadores do template.
+## 📄 Licença
+Este projeto está licenciado sob a [Licença MIT](./LICENSE).  
+Créditos ao(s) autor(es); este repositório contém customizações próprias.
 
 ---
 
-## 🛠 Ferramentas Utilizadas
-- **GitHub Pages** — Hospedagem do site  
-- **Animate on Scroll (AOS)** — Animações ao rolar a página  
-- **Animista** — Efeitos e transições de animação
+## 🔧 Ferramentas
+- GitHub Pages — Hospedagem  
+- AOS (Animate on Scroll) — Animações  
+- Animista — Efeitos visuais
 
+---
 
-
-[def2]: :portfoliopetrus/screenshotmainpage.jpe
->>>>>>> e23f373 (Minhas alterações)
+## ✉️ Contato
+Petrus Jucá — jucapetrus0@gmail.com
