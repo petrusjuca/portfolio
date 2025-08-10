@@ -1,4 +1,4 @@
-# 🌐 Portfólio — SEU_NOME
+# 🌐 Portfólio — Petrus Jucá :)
 
 Acesse o site: https://SEU_USUARIO.github.io
 
