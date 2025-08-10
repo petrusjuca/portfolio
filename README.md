@@ -4,10 +4,6 @@ Acesse o site: https://SEU_USUARIO.github.io
 
 Este repositório contém o meu portfólio pessoal — projetos, habilidades, experiência e formas de contato.
 
----
-
-## 🖼 Preview
-![Screenshot do Portfólio](assets/screenshot-main.jpg)
 
 ---
 
