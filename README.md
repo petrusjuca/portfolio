@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <a href="https://seuusuario.github.io/" target="_blank">Meu Portfólio</a>
 <p align="justify">Este site apresenta meus projetos, presença na web, história, experiência profissional e formas de contato.</p>
 
@@ -29,3 +30,39 @@ Ferramentas Utilizadas 🛠️
 <b>Animista</b> — Efeitos de animação.
 
 
+=======
+# 🌐 Meu Portfólio
+
+Este site apresenta **meus projetos**, **presença na web**, **história**, **experiência profissional** e **formas de contato**.
+
+---
+
+## 🖼 Screenshot
+<img width="100%" alt="Screenshot do Portfólio" src="[def2]">
+
+---
+
+## 📚 Seções
+✔️ Introdução  
+✔️ Sobre Mim  
+✔️ Habilidades  
+✔️ Projetos  
+✔️ Contato  
+
+---
+
+## 📜 Licença
+Este projeto está sob a [Licença MIT](./LICENSE).  
+Os créditos e direitos autorais originais permanecem com os criadores do template.
+
+---
+
+## 🛠 Ferramentas Utilizadas
+- **GitHub Pages** — Hospedagem do site  
+- **Animate on Scroll (AOS)** — Animações ao rolar a página  
+- **Animista** — Efeitos e transições de animação
+
+
+[def]: :\Users\20231011010357\Downloads\portfoliopetrus\screenshotmainpage.jpe
+[def2]: :/Users/20231011010357/Downloads/portfoliopetrus/screenshotmainpage.jpe
+>>>>>>> e23f373 (Minhas alterações)
