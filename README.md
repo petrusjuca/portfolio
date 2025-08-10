@@ -7,7 +7,7 @@
 
 <a href="./LICENSE"><img alt="Licença" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square" /></a>
 
-<img width="100%" alt="Screenshot do Portfólio" src="coloque-o-link-da-sua-screenshot-aqui">
+<img width="100%" alt="Screenshot do Portfólio" src="[def2]">
 
 
 Seções 📚
@@ -63,6 +63,6 @@ Os créditos e direitos autorais originais permanecem com os criadores do templa
 - **Animista** — Efeitos e transições de animação
 
 
-[def]: :\Users\20231011010357\Downloads\portfoliopetrus\screenshotmainpage.jpe
-[def2]: :/Users/20231011010357/Downloads/portfoliopetrus/screenshotmainpage.jpe
+
+[def2]: :portfoliopetrus/screenshotmainpage.jpe
 >>>>>>> e23f373 (Minhas alterações)
